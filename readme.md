@@ -1,6 +1,6 @@
 # BlockWave Gallery - The BEST gallery for unbloxed utilites
 How to navigate? Choose an option from below:<br/>
-Games - UNAVAILABLE<br/>
+Games - [View](https://github.com/MrInc0gnito/BlockWave-Gallery/blob/main/games.md)<br/>
 Streaming - UNAVAILABLE<br/>
 Proxies - UNAVAILABLE<br/>
 Game Download Files - UNAVAILABLE<br/>
