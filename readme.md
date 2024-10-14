@@ -1,5 +1,5 @@
 # BlockWave Gallery - The BEST gallery for unbloxed utilites
-How to navigate? Choose an option from below:
+How to navigate? Choose an option from below:<br/>
 Games - UNAVAILABLE<br/>
 Streaming - UNAVAILABLE
 Proxies - UNAVAILABLE
