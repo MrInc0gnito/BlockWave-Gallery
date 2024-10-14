@@ -14,4 +14,4 @@ We got many games to pick from:
 [3kh0](https://3kh0-reborn.outred.dev/)
 [Jordan's Math Work](https://ohnoasweaty.fortnitebuilder.pro/) AD3
 [Math Playground](https://www.mathplayground.com/)
-[View ALL Shell Shocker Instances](h)
+[View ALL Shell Shocker Instances](https://github.com/MrInc0gnito/BlockWave-Gallery/blob/main/shellshockerinstances.html)
